@@ -1,0 +1,50 @@
+{
+  "title":"标题", 
+  "alerts": {
+    "pluginDesc": "选择需要批量创建字段的数据表，通过修改下方的字段表格，实现批量创建字段。"
+  },
+  "labels": {
+    "table": "选择数据表："
+  },
+  "tables": {
+    "add": "➕",
+    "deleteConfirm": "确定要删除吗？",
+    "cancelConfirm": "确定要取消吗？",
+    "newField": "新建字段",
+    "fieldName": "新增字段名称",
+    "fieldType": "新增字段类型",
+    "operations": "操作"
+  },
+  "fieldTypeLabels": {
+    "Text": "文本",
+    "Number": "数字",
+    "SingleSelect": "单选",
+    "MultiSelect": "多选",
+    "DateTime": "时间",
+    "Checkbox": "复选框",
+    "User": "人员",
+    "Phone": "电话",
+    "Url": "链接",
+    "Attachment": "附件",
+    "SingleLink": "单项关联",
+    "Lookup": "查找引用",
+    "Formula": "公式",
+    "DuplexLink": "双向关联",
+    "Location": "地理位置",
+    "GroupChat": "群组",
+    "CreatedTime": "创建时间",
+    "ModifiedTime": "修改时间",
+    "CreatedUser": "创建人",
+    "ModifiedUser": "更新人员",
+    "AutoNumber": "自动编号",
+    "Barcode": "条码",
+    "Progress": "进度",
+    "Currency": "货币",
+    "Rating": "评分",
+    "Email": "邮箱"
+  },
+  "placeholder": {
+    "number": "请选择快递号对应的字段列"
+  },
+  "submit": "批量处理"
+} 

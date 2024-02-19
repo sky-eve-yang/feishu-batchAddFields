@@ -1,0 +1,50 @@
+{
+  "title": "Title",
+  "alerts": {
+    "pluginDesc": "Select the table for which you want to batch create fields, and modify the fields table below to batch create fields."
+  },
+  "labels": {
+    "table": "Select Table:"
+  },
+  "tables": {
+    "add": "➕",
+    "deleteConfirm": "Are you sure you want to delete?",
+    "cancelConfirm": "Are you sure you want to cancel?",
+    "newField": "New Field",
+    "fieldName": "New Field Name",
+    "fieldType": "New Field Type",
+    "operations": "Operations"
+  },
+  "fieldTypeLabels": {
+    "Text": "Text",
+    "Number": "Number",
+    "SingleSelect": "Single Select",
+    "MultiSelect": "Multi Select",
+    "DateTime": "Date Time",
+    "Checkbox": "Checkbox",
+    "User": "User",
+    "Phone": "Phone",
+    "Url": "URL",
+    "Attachment": "Attachment",
+    "SingleLink": "Single Link",
+    "Lookup": "Lookup",
+    "Formula": "Formula",
+    "DuplexLink": "Duplex Link",
+    "Location": "Location",
+    "GroupChat": "Group Chat",
+    "CreatedTime": "Created Time",
+    "ModifiedTime": "Modified Time",
+    "CreatedUser": "Created By",
+    "ModifiedUser": "Modified By",
+    "AutoNumber": "Auto Number",
+    "Barcode": "Barcode",
+    "Progress": "Progress",
+    "Currency": "Currency",
+    "Rating": "Rating",
+    "Email": "Email"
+  },
+  "placeholder": {
+    "number": "Please select the corresponding field column for the tracking number"
+  },
+  "submit": "Batch Process"
+}
